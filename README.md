@@ -1,0 +1,2 @@
+# java-spring-camel-vscode-otel-grafana-sqlserver-postgres-mysql_consumoapis
+Exemplo de aplicação criada com Java + Spring + Apache Camel e utilizando Distributed Tracing com Jaeger + OpenTelemetry + Grafana e consumindo APIs REST (uma destas depende de bases SQL Server + PostgreSQL + MySQL). Contém referências para o uso de Docker Compose em ambientes que dependam do OpenTelemetry Collector.
